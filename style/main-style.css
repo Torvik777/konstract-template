@@ -37,7 +37,7 @@ body
     height:48rem;
     max-width:1438px;
     width: 100vw;
-    background-image: url(/image/up_fon.jpg);
+    background-image:url(../image/up_fon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -55,13 +55,13 @@ body
 {
    margin: 4.4% auto 0px auto;
 }
-.header-content h1
+.header-content h1 
 {
 margin:19.9rem auto 0px auto;
 }
 .header-content p
 {
-    font-weight: 600;
+    font-weight: 600 ;
 }
 .credo
 {
@@ -211,7 +211,7 @@ color: #48555B;
 }
 .card-we-plan
 {
-    background-image: url(/image/Bitmap1.jpg);  
+    background-image: url(../image/Bitmap1.jpg);  
     transition: 3s;
 }
 .card-we-plan:hover
@@ -224,7 +224,7 @@ color: #48555B;
 
 .card-we-manage
 {
-    background-image: url(/image/Bitmap2.jpg); 
+    background-image: url(../image/Bitmap2.jpg); 
     transition: 3s;
 }
 .card-we-manage:hover
@@ -234,7 +234,7 @@ border: 30px solid white;
 }
 .card-we-build
 {
-    background-image: url(/image/Bitmap3.jpg); 
+    background-image: url(../image/Bitmap3.jpg); 
     transition: 3s;
 }
 .card-we-build:hover
@@ -324,7 +324,7 @@ transition: 1s;
     margin-top: 115px;
     width: 100vw;
     height:499px;
-    background-image: url(/image/get-in-touch.jpg) ;
+    background-image: url(../image/get-in-touch.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
     max-width:1440px;
